@@ -1,0 +1,9 @@
+{
+  "short_name": "LifeMate",
+  "name": "LifeMate - Daily Planner",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0D0D1C",
+  "background_color": "#04040e",
+  "orientation": "portrait"
+}
